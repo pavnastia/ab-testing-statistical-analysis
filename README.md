@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project focuses on analyzing A/B testing results using Python and statistical methods to evaluate differences in conversion rates between control and test groups.
+This project focuses on analyzing A/B testing results using Python and statistical methods to evaluate differences in conversion rates between control and test groups. 
 
 The analysis includes automated statistical significance calculations for multiple conversion metrics and an interactive Tableau dashboard to visualize experiment results.
 
 ## Project Results
 
-- [View A/B Testing Results on Google Drive]([https://drive.google.com/file/d/1N0rCcgKf9Pp17WMNOKEGFSHG0zhxHEy9/view])
+- [View A/B Testing Results on Google Drive](https://drive.google.com/file/d/1N0rCcgKf9Pp17WMNOKEGFSHG0zhxHEy9/view?usp=sharing)
 - [View on Tableau Public](https://public.tableau.com/app/profile/anastasiia.pavlenko/viz/Significance_17915712118370/Dashboard1?publish=yes)
 
 ## Tools & Technologies
